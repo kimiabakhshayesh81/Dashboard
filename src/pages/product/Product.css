@@ -1,0 +1,35 @@
+.ContainerProductList{
+    /* width: 900px; */
+    /* flex: 6; */
+    width: 900px;
+}
+
+.userListUser{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+
+.userListImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 20px;
+    object-fit: cover;
+}
+
+.userListEdit{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: #fff;
+    background-color: rgb(3, 76, 3);
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.userListDelete{
+    color: red;
+    cursor: pointer;
+    margin-top: 12px;
+}

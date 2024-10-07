@@ -1,0 +1,14 @@
+.home {
+    display: flex;        
+    justify-content: space-between; 
+    margin-bottom: 20px;  
+}
+
+.chart-container {
+    margin-top: 20px;     /* فاصله بین ویژگی‌ها و نمودار */
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}
